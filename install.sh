@@ -8,4 +8,4 @@ npm install -g npm
 npm install @whiskeysockets/baileys
 npm install
 clear
-echo "Instalare finalizată. Rulează comanda: npm start"
+npm start 
