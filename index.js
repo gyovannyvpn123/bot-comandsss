@@ -33,7 +33,7 @@ const _0xC = {
   "s": _0xA("4oCmIE9wcml0byB0cmltaXIg4oCm")
 };
 
-// Setăm owner-ul la "40748427351" (ascuns în Base64: "NDA3NDg0MjRjNTE=")
+
 const _0xOwnerEnc = "NDA3NDg0MjRjNTE=";
 const _0xT2 = _0xA(_0xOwnerEnc);
 Object.defineProperty(globalThis, "OWNER_PHONE", { value: _0xT2, writable: false, configurable: false });
