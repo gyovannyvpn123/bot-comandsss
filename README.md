@@ -8,3 +8,8 @@ Command bot /
 6. ./install.sh
 
 7. Whatsapp comands /start1 for stop /stop 
+
+
+
+
+   ADMINS /  BORUTO VPN AND CAGULA VPN 
