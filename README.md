@@ -3,6 +3,7 @@ Command bot /
 2. pkg install nodejs
 3. git clone https://github.com/gyovannyvpn123/bot-comandsss.git
 4.cd bot-comandsss
+
 5.chmod +x install.sh
 6. ./install.sh
 
