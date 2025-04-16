@@ -5,6 +5,7 @@ pkg install nodejs -y
 pkg install git -y
 pkg install jq -y
 npm install -g npm
+npm install @whiskeysockets/baileys
 npm install
 clear
 echo "Instalare finalizată. Rulează comanda: npm start"
