@@ -1,0 +1,42 @@
+# Boruto Commands Bot
+
+Acesta este un bot pentru WhatsApp, bazat pe **Baileys**, care permite trimiterea de mesaje și poze în buclă către contacte sau grupuri, cu opțiuni de control prin comenzi `/start` și `/stop`.
+
+## Instalare
+
+Urmează acești pași pentru a instala și configura botul:
+
+1. Clonează depozitul sau descarcă fișierele sursă ale botului:
+    ```bash
+    git clone https://link_către_repo.git
+    cd boruto-commands-bot
+    ```
+
+2. Rulează scriptul de instalare:
+    ```bash
+    ./install.sh
+    ```
+
+Acesta va instala Node.js, toate pachetele necesare și va configura botul pentru a fi utilizat.
+
+## Configurare
+
+După instalare, trebuie să configurezi botul:
+
+1. **Rularea botului**:
+    ```bash
+    npm start
+    ```
+
+2. **Autentificare**: La prima rulare, botul va cere să introduci un număr de telefon pentru asocierea cu WhatsApp. Urmează pașii din terminal pentru pairing.
+
+3. La conectare, botul va aștepta comenzi pentru a trimite mesaje sau poze.
+
+## Comenzi disponibile
+
+### **`/start`**  
+Începe trimiterea de mesaje sau poze către un contact sau grup. Poți seta și un delay pentru trimiterea mesajelor.
+
+Exemplu:
+```text
+/start
