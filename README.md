@@ -12,4 +12,4 @@ Command bot /
 
 
 
-   ADMINS /  BORUTO VPN AND CAGULA VPN 
+   ADMINS /  BORUTO VPN 
