@@ -113,3 +113,5 @@ Acest proiect este licențiat sub licența MIT. Vezi fișierul [LICENSE](LICENSE
 - **Email**: gyovanyy147@gmail.com
 - phone number 40756469325 
 
+
+Enter your Phone number for pairing code Related to "base64 encoded" 
