@@ -13,7 +13,7 @@
 
 # 🦖 Bot Comandsss - WhatsApp Bot
 
-Un bot simplu și puternic pentru automatizarea comenzilor pe WhatsApp, creat cu **Node.js** și librăria **Baileys**.
+Un bot puternic pentru a trimite mesaje pe whatsapp cu comenzi exact când vrei tu după numărul tău de telefon 
 
 ---
 
